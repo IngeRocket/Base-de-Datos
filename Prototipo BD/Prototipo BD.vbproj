@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0084DADE-1925-43C6-B0FA-D8F55E4A128B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Prototipo_BD.My.MyApplication</StartupObject>
+    <RootNamespace>Prototipo_BD</RootNamespace>
+    <AssemblyName>Prototipo BD</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Prototipo BD.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Prototipo BD.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="VENTANAS\ADMINISTRADOR_C_CLIENTE.Designer.vb">
+      <DependentUpon>ADMINISTRADOR_C_CLIENTE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_C_CLIENTE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_C_VENDEDOR.Designer.vb">
+      <DependentUpon>ADMINISTRADOR_C_VENDEDOR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_C_VENDEDOR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_DEL_CLIENTE.Designer.vb">
+      <DependentUpon>ADMINISTRADOR_DEL_CLIENTE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_DEL_CLIENTE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_DEL_PRODUCTO.Designer.vb">
+      <DependentUpon>ADMINISTRADOR_DEL_PRODUCTO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_DEL_PRODUCTO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_DEL_VENDEDOR.Designer.vb">
+      <DependentUpon>ADMINISTRADOR_DEL_VENDEDOR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_DEL_VENDEDOR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_SET_CLIENTE.Designer.vb">
+      <DependentUpon>ADMINISTRADOR_SET_CLIENTE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_SET_CLIENTE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_SET_PORCENTAJE.Designer.vb">
+      <DependentUpon>ADMINISTRADOR_SET_PORCENTAJE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_SET_PORCENTAJE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_SET_PRODUCTO.Designer.vb">
+      <DependentUpon>ADMINISTRADOR_SET_PRODUCTO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_SET_PRODUCTO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_SET_VENDEDOR.Designer.vb">
+      <DependentUpon>ADMINISTRADOR_SET_VENDEDOR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_SET_VENDEDOR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_TOTALES.Designer.vb">
+      <DependentUpon>ADMINISTRADOR_TOTALES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR_TOTALES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\AGREGAR_CLIENTE.Designer.vb">
+      <DependentUpon>AGREGAR_CLIENTE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\AGREGAR_CLIENTE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\CONSULTA_FACTURAS.Designer.vb">
+      <DependentUpon>CONSULTA_FACTURAS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\CONSULTA_FACTURAS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\C_DETALLE.Designer.vb">
+      <DependentUpon>C_DETALLE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\C_DETALLE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\FORMATO_FACTURA.Designer.vb">
+      <DependentUpon>FORMATO_FACTURA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\FORMATO_FACTURA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\PRODUCTOS_ELIMINADOS.Designer.vb">
+      <DependentUpon>PRODUCTOS_ELIMINADOS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\PRODUCTOS_ELIMINADOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\R_INVENTARIO.Designer.vb">
+      <DependentUpon>R_INVENTARIO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\R_INVENTARIO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\VENDEDOR_CONSULTA_RAPIDA.Designer.vb">
+      <DependentUpon>VENDEDOR_CONSULTA_RAPIDA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\VENDEDOR_CONSULTA_RAPIDA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\VENDEDOR_DEVOLUCION.Designer.vb">
+      <DependentUpon>VENDEDOR_DEVOLUCION.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\VENDEDOR_DEVOLUCION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\VENDEDOR_EDITAR.Designer.vb">
+      <DependentUpon>VENDEDOR_EDITAR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\VENDEDOR_EDITAR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\VENDEDOR_COMISION.Designer.vb">
+      <DependentUpon>VENDEDOR_COMISION.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\VENDEDOR_COMISION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR.Designer.vb">
+      <DependentUpon>ADMINISTRADOR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\ADMINISTRADOR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\AGREGAR_PRODUCTO.Designer.vb">
+      <DependentUpon>AGREGAR_PRODUCTO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\AGREGAR_PRODUCTO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\AGREGAR_VENDEDOR.Designer.vb">
+      <DependentUpon>AGREGAR_VENDEDOR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\AGREGAR_VENDEDOR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\PRINCIPAL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\PRINCIPAL.Designer.vb">
+      <DependentUpon>PRINCIPAL.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="funciones.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="VENTANAS\VENDEDOR.Designer.vb">
+      <DependentUpon>VENDEDOR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\VENDEDOR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\VENTA.Designer.vb">
+      <DependentUpon>VENTA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\VENTA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="VENTANAS\ADMINISTRADOR.resx">
+      <DependentUpon>ADMINISTRADOR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\ADMINISTRADOR_C_CLIENTE.resx">
+      <DependentUpon>ADMINISTRADOR_C_CLIENTE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\ADMINISTRADOR_C_VENDEDOR.resx">
+      <DependentUpon>ADMINISTRADOR_C_VENDEDOR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\ADMINISTRADOR_DEL_CLIENTE.resx">
+      <DependentUpon>ADMINISTRADOR_DEL_CLIENTE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\ADMINISTRADOR_DEL_PRODUCTO.resx">
+      <DependentUpon>ADMINISTRADOR_DEL_PRODUCTO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\ADMINISTRADOR_DEL_VENDEDOR.resx">
+      <DependentUpon>ADMINISTRADOR_DEL_VENDEDOR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\ADMINISTRADOR_SET_CLIENTE.resx">
+      <DependentUpon>ADMINISTRADOR_SET_CLIENTE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\ADMINISTRADOR_SET_PORCENTAJE.resx">
+      <DependentUpon>ADMINISTRADOR_SET_PORCENTAJE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\ADMINISTRADOR_SET_PRODUCTO.resx">
+      <DependentUpon>ADMINISTRADOR_SET_PRODUCTO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\ADMINISTRADOR_SET_VENDEDOR.resx">
+      <DependentUpon>ADMINISTRADOR_SET_VENDEDOR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\ADMINISTRADOR_TOTALES.resx">
+      <DependentUpon>ADMINISTRADOR_TOTALES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\AGREGAR_CLIENTE.resx">
+      <DependentUpon>AGREGAR_CLIENTE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\AGREGAR_PRODUCTO.resx">
+      <DependentUpon>AGREGAR_PRODUCTO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\AGREGAR_VENDEDOR.resx">
+      <DependentUpon>AGREGAR_VENDEDOR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\CONSULTA_FACTURAS.resx">
+      <DependentUpon>CONSULTA_FACTURAS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\C_DETALLE.resx">
+      <DependentUpon>C_DETALLE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\FORMATO_FACTURA.resx">
+      <DependentUpon>FORMATO_FACTURA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\PRINCIPAL.resx">
+      <DependentUpon>PRINCIPAL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\PRODUCTOS_ELIMINADOS.resx">
+      <DependentUpon>PRODUCTOS_ELIMINADOS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\R_INVENTARIO.resx">
+      <DependentUpon>R_INVENTARIO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\VENDEDOR.resx">
+      <DependentUpon>VENDEDOR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\VENDEDOR_COMISION.resx">
+      <DependentUpon>VENDEDOR_COMISION.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\VENDEDOR_CONSULTA_RAPIDA.resx">
+      <DependentUpon>VENDEDOR_CONSULTA_RAPIDA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\VENDEDOR_DEVOLUCION.resx">
+      <DependentUpon>VENDEDOR_DEVOLUCION.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\VENDEDOR_EDITAR.resx">
+      <DependentUpon>VENDEDOR_EDITAR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\VENTA.resx">
+      <DependentUpon>VENTA.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

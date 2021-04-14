@@ -1,0 +1,174 @@
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\bin\Debug\Prototipo BD.exe.config
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\bin\Debug\Prototipo BD.exe
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\bin\Debug\Prototipo BD.pdb
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\bin\Debug\Prototipo BD.xml
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo BD.vbprojAssemblyReference.cache
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.Resources.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.PRINCIPAL.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo BD.vbproj.GenerateResource.cache
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo BD.vbproj.CoreCompileInputs.cache
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo BD.exe
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo BD.xml
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo BD.pdb
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.AGREGAR_CLIENTE.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.AGREGAR_PRODUCTO.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.AGREGAR_VENDEDOR.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_COMISION.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_EDITAR.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.VENTA.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_DEL_PRODUCTO.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_DEL_VENDEDOR.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_CONSULTA_RAPIDA.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.PRODUCTOS_ELIMINADOS.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_CLIENTE.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_VENDEDOR.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_DEL_CLIENTE.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_PRODUCTO.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_DEVOLUCION.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.CONSULTA_FACTURAS.resources
+C:\Users\Julio\Documents\Visual Studio 2017\Projects\Prototipo BD\obj\Debug\Prototipo_BD.C_DETALLEvb.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\bin\Debug\Prototipo BD.exe.config
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\bin\Debug\Prototipo BD.exe
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\bin\Debug\Prototipo BD.pdb
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\bin\Debug\Prototipo BD.xml
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo BD.vbprojAssemblyReference.cache
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.Resources.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_DEL_CLIENTE.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_DEL_PRODUCTO.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_DEL_VENDEDOR.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_CLIENTE.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_PRODUCTO.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_VENDEDOR.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.AGREGAR_CLIENTE.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.AGREGAR_PRODUCTO.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.AGREGAR_VENDEDOR.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.CONSULTA_FACTURAS.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.PRINCIPAL.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.PRODUCTOS_ELIMINADOS.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_COMISION.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_CONSULTA_RAPIDA.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_DEVOLUCION.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_EDITAR.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.VENTA.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo BD.vbproj.GenerateResource.cache
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo BD.vbproj.CoreCompileInputs.cache
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo BD.exe
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo BD.xml
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo BD.pdb
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.C_DETALLE.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.R_INVENTARIO.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_C_CLIENTE.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_C_VENDEDOR.resources
+C:\Users\J Mendoza\Desktop\RESPALDO DE PC\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_TOTALES.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\bin\Debug\Prototipo BD.exe.config
+C:\Users\J Mendoza\Desktop\Prototipo BD\bin\Debug\Prototipo BD.exe
+C:\Users\J Mendoza\Desktop\Prototipo BD\bin\Debug\Prototipo BD.pdb
+C:\Users\J Mendoza\Desktop\Prototipo BD\bin\Debug\Prototipo BD.xml
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo BD.vbprojAssemblyReference.cache
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.Resources.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_C_CLIENTE.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_C_VENDEDOR.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_DEL_CLIENTE.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_DEL_PRODUCTO.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_DEL_VENDEDOR.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_CLIENTE.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_PRODUCTO.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_VENDEDOR.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_TOTALES.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.AGREGAR_CLIENTE.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.AGREGAR_PRODUCTO.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.AGREGAR_VENDEDOR.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.CONSULTA_FACTURAS.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.C_DETALLE.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.PRINCIPAL.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.PRODUCTOS_ELIMINADOS.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.R_INVENTARIO.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_COMISION.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_CONSULTA_RAPIDA.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_DEVOLUCION.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_EDITAR.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo_BD.VENTA.resources
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo BD.vbproj.GenerateResource.cache
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo BD.vbproj.CoreCompileInputs.cache
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo BD.exe
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo BD.xml
+C:\Users\J Mendoza\Desktop\Prototipo BD\obj\Debug\Prototipo BD.pdb
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\bin\Debug\Prototipo BD.exe.config
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\bin\Debug\Prototipo BD.exe
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\bin\Debug\Prototipo BD.pdb
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\bin\Debug\Prototipo BD.xml
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo BD.vbprojAssemblyReference.cache
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.Resources.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_C_CLIENTE.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_C_VENDEDOR.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_DEL_CLIENTE.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_DEL_PRODUCTO.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_DEL_VENDEDOR.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_CLIENTE.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_PRODUCTO.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_VENDEDOR.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_TOTALES.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.AGREGAR_CLIENTE.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.AGREGAR_PRODUCTO.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.AGREGAR_VENDEDOR.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.CONSULTA_FACTURAS.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.C_DETALLE.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.FORMATO_FACTURA.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.PRINCIPAL.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.PRODUCTOS_ELIMINADOS.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.R_INVENTARIO.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_COMISION.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_CONSULTA_RAPIDA.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_DEVOLUCION.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_EDITAR.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.VENTA.resources
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo BD.vbproj.GenerateResource.cache
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo BD.vbproj.CoreCompileInputs.cache
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo BD.exe
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo BD.xml
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo BD.pdb
+C:\Users\J Mendoza\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_PORCENTAJE.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\bin\Debug\Prototipo BD.exe.config
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\bin\Debug\Prototipo BD.exe
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\bin\Debug\Prototipo BD.pdb
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\bin\Debug\Prototipo BD.xml
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo BD.vbprojAssemblyReference.cache
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.Resources.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_C_CLIENTE.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_C_VENDEDOR.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_DEL_CLIENTE.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_DEL_PRODUCTO.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_DEL_VENDEDOR.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_CLIENTE.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_PORCENTAJE.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_PRODUCTO.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_SET_VENDEDOR.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.ADMINISTRADOR_TOTALES.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.AGREGAR_CLIENTE.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.AGREGAR_PRODUCTO.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.AGREGAR_VENDEDOR.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.CONSULTA_FACTURAS.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.C_DETALLE.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.FORMATO_FACTURA.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.PRINCIPAL.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.PRODUCTOS_ELIMINADOS.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.R_INVENTARIO.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_COMISION.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_CONSULTA_RAPIDA.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_DEVOLUCION.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.VENDEDOR_EDITAR.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo_BD.VENTA.resources
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo BD.vbproj.GenerateResource.cache
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo BD.exe
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo BD.xml
+C:\Users\Julio\Desktop\VERSION ARREGLADA COMPRA\Prototipo BD\obj\Debug\Prototipo BD.pdb
